@@ -1,4 +1,3 @@
-**File: c:\Users\engin\Downloads\pythongui\README.md**
 ```markdown
 # Exhibition Theme
 
